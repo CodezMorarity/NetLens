@@ -1,6 +1,6 @@
 # NetLens
 
-A command-line network packet analyzer by **Tejas Chandola**. Capture live traffic,
+A **command-line network packet analyzer**. Capture live traffic,
 inspect saved PCAP/PCAPNG files, follow bidirectional flows, and flag possible
 cleartext secrets or SYN scans. Use it only on traffic you are authorized to inspect.
 
