@@ -1,0 +1,4 @@
+include main.py requirements.txt
+recursive-include examples *.py
+recursive-include tests *.py
+recursive-include .github *.yml
